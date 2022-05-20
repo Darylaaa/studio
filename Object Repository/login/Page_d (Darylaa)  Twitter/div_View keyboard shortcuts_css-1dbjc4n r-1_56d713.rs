@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View keyboard shortcuts_css-1dbjc4n r-1_56d713</name>
+   <tag></tag>
+   <elementGuidId>835c6e4b-8b12-433f-88cb-b435636868ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/div/div/div[2]/header/div/div/div/div/div[2]/nav/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-1hdo0pc.r-sdzlij.r-18u37iz.r-1777fci.r-dnmrzs.r-xyw6el.r-o7ynqc.r-6416eg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>117dc637-a902-4d13-bf70-60b1ed5a642c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-1hdo0pc r-sdzlij r-18u37iz r-1777fci r-dnmrzs r-xyw6el r-o7ynqc r-6416eg</value>
+      <webElementGuid>f2aeb36a-b88b-4e15-9991-4767fcfe3587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-13qz1uu r-417010&quot;]/header[@class=&quot;css-1dbjc4n r-obd0qt r-16y2uox r-lrvibr r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-f9dfq4&quot;]/div[@class=&quot;css-1dbjc4n r-aqfbo4 r-1pi2tsx r-1xcajam r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1pi2tsx r-1wtj0ep r-1rnoaur r-1e081e0 r-f9dfq4&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-15zivkp r-1bymd8e r-13qz1uu&quot;]/nav[@class=&quot;css-1dbjc4n r-1awozwy r-eqz5dr&quot;]/a[@class=&quot;css-4rbku5 css-18t94o4 css-1dbjc4n r-1habvwh r-1loqt21 r-6koalj r-eqz5dr r-16y2uox r-1ny4l3l r-rjfia r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1hdo0pc r-sdzlij r-18u37iz r-1777fci r-dnmrzs r-xyw6el r-o7ynqc r-6416eg&quot;]</value>
+      <webElementGuid>ecd79c99-04f1-4bcf-bbf6-8bbd09ab543c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/div/div/div[2]/header/div/div/div/div/div[2]/nav/a/div</value>
+      <webElementGuid>e3700dcc-5958-46d7-b182-634cd01f9e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View keyboard shortcuts'])[1]/following::div[18]</value>
+      <webElementGuid>dad5b54a-d03a-4954-b208-a7862ddd1430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To view keyboard shortcuts, press question mark'])[1]/following::div[18]</value>
+      <webElementGuid>c32a7aad-36f3-4fbd-81dd-212d88d34209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='d'])[1]/preceding::div[42]</value>
+      <webElementGuid>b898b78e-61b6-46fd-9e36-1c891b3c0ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See new Tweets'])[1]/preceding::div[54]</value>
+      <webElementGuid>1e492c69-2939-46e8-a256-374a2990550e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/a/div</value>
+      <webElementGuid>661b3188-465e-46cf-bd72-9b4b5f75b6ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
